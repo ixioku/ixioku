@@ -1,0 +1,3 @@
+- Hi! I'm Janna!
+- I'm currently learning full-stack development!
+- She/Her <3
